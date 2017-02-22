@@ -37,14 +37,16 @@
     },
     "CZ": {
         "capacity": {
-            "biomass": 350,
-            "coal": 9914,
-            "gas": 1226,
-            "hydro": 2253,
-            "nuclear": 4040,
+            "biomass": 495,
+            "coal": 10244,
+            "gas": 2223.2,
+            "geothermal": 0,
+            "hydro": 1087.5,
+            "hydro storage": 1171.5,
+            "nuclear": 4290,
             "oil": 0,
-            "solar": 2067,
-            "wind": 277
+            "solar": 2074.9,
+            "wind": 280.6
         }
     },
     "DE": {
@@ -94,9 +96,14 @@
     },
     "FI": {
         "capacity": {
-            "hydro": 3080,
-            "nuclear": 2860,
-            "wind": 1000
+            "hydro": 3207,
+            "unknown": 648,
+            "nuclear": 2782,
+            "wind": 1432,
+            "biomass": 2866,
+            "coal": 2854,
+            "oil": 1427,
+            "gas": 1795
         }
     },
     "FR": {
@@ -112,11 +119,25 @@
     },
     "GB": {
         "capacity": {
-            "wind": 13500,
-            "nuclear": 9000,
-            "hydro": 1550,
-            "gas": 38000,
-            "solar": 8780
+            "wind": 15621,
+            "nuclear": 8985,
+            "hydro": 4269,
+            "gas": 27688,
+            "solar": 8566,
+            "coal": 11097,
+            "biomass": 2119,
+            "oil": 759,
+            "unknown": 8186
+        }
+    },
+    "GB-NIR": {
+        "capacity": {
+            "wind": 863,
+            "gas": 1004,
+            "solar": 77,
+            "coal": 764,
+            "biomass": 35,
+            "oil": 415
         }
     },
     "GR": {
@@ -155,6 +176,20 @@
             "unknown": 647,
             "solar": 0,
             "wind": 3025
+        }
+    },
+    "IS": {
+        "capacity": {
+            "biomass": 0,
+            "oil": 117,
+            "coal": 0,
+            "hydro": 1986,
+            "geothermal": 665,
+            "nuclear": 0,
+            "gas": 0,
+            "unknown": 0,
+            "solar": 0,
+            "wind": 3
         }
     },
     "IT": {
@@ -254,10 +289,13 @@
     },
     "SE": {
         "capacity": {
-            "hydro": 16200,
-            "nuclear": 8849,
+            "hydro": 15945,
+            "nuclear": 9100,
             "solar": 79,
-            "wind": 6025
+            "wind": 5960,
+            "biomass": 220,
+            "gas": 698,
+            "oil": 2251
         }
     },
     "SI": {
